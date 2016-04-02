@@ -7,3 +7,9 @@
     padding: 150px 0 25px 50px;
 }
 
+.street-address, .tel, .email, .hours{ line-height: 130%; margin-bottom: 8px;}
+
+#contactForm .row { padding-top: 50px;}
+
+.btn-xl{background-color: #fed136;}
+
