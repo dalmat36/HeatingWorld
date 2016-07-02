@@ -168,6 +168,8 @@ a:focus {
     font-size: 18px;
 }
 
+.intro-body .container{background-color: rgba(40,40,40,.5)}
+
 @media(min-width:768px) {
     .intro {
         height: 100%;
